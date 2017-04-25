@@ -1,5 +1,3 @@
-﻿
-
 import android.util.Log;
 
 /**
@@ -68,5 +66,6 @@ public class L
 	{
 		if (isDebug)
 			Log.i(tag, msg);
+		
 	}
 }
