@@ -1,5 +1,3 @@
-﻿
-
 import android.util.Log;
 
 /**
