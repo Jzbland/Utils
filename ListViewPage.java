@@ -2,6 +2,7 @@
 把置入适配器的list追加数据记录，再使用适配器的notifyDataSetChanged()刷新。
  
 方法案例
+//listView的数据是动态的 每点击一次数据添加一条
 以http://blog.csdn.net/jueblog/article/details/12114513的ListView为例，对Activity作如下改进。
 [java]  
 package com.app.test01;  
